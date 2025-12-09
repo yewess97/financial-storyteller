@@ -1,4 +1,4 @@
-# The Financial StoryTeller React Application
+# The Financial Storyteller React Application
 
 https://finantial-storyteller.netlify.app/
 
